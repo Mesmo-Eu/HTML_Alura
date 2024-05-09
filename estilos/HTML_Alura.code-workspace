@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "HTML_Alura",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML_Alura"
+	}
+}
